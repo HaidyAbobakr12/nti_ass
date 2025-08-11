@@ -1,1 +1,2 @@
-# nti_ass
+# nti_ass 
+Single Layer Perceptron (or)
